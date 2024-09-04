@@ -1,6 +1,7 @@
 # Image Analysis
 
-Learn about Data Science and Image Analysis. Data Science specifically computer vision with deep learning, is being used extensively in image analysis for surveillance, image classification, object detection, object tracking, segmentation, self-driving cars and many more.
+Learn about Data Science and Image Analysis.  
+ Data Science specifically computer vision with deep learning, is being used extensively in image analysis for surveillance, image classification, object detection, object tracking, segmentation, self-driving cars and many more.
 
 Among the most common types of data available out there are Image and Video data.  
 We can apply computer vision and Deep Learning in Data Science for the betterment of society.
