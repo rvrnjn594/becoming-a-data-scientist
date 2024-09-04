@@ -38,5 +38,10 @@ It does not have a specific format and lacks structure. It is the type of data t
 - Image
 - Video
 - Speech
-- Email or any article as seen below
+- Email or any article as seen below  
+   Quantum computing uses quantum-mechanical phenomena such as superposition and entanglement, to perform computation.  
+   A quantum computer performs such computation, which can be implemented theoretically or physically. There are currently two main approaches to physically implementing a quantum computer: analog and digital.
+
+  Analog approaches are further divided into quantum simulation, quantum annealing, and adiabatic quantum computation.
+
 - Any webpage

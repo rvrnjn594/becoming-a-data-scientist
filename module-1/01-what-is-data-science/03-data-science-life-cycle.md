@@ -17,7 +17,7 @@ The Data Science life cycle involves the following steps:
     The data analyst's job ends here.
 5. Feature Engineering and Selection  
    It is a preprocessing step before modelling in both Machine Learning and Deep Learning.  
-    We will look inti these fields in the coming sections. It has similar steps to Data Wragling apart from some algorithms for Feature Selection and transformation.
+    We will look into these fields in the coming sections. It has similar steps to Data Wragling apart from some algorithms for Feature Selection and transformation.
 6. Modelling  
    Modelling is the process that uncovers the meaning of the data. It is about capturing underlying trends and the data's behavior to make the model, which can be used for predictive analytics as described in the previous section.
 7. Deployment  
@@ -26,4 +26,4 @@ The Data Science life cycle involves the following steps:
    After we have deployed the model, we will want to monitor it. Monitoring is about familiarizing the model with the new dataset and tracking the number of requests that model receives.  
     It also involves making changes to the analysis and starting over if required.
 
-![Data Science life cycle](./images/Screenshot%202024-08-05%20at%2010.02.45 AM.png)
+![data science life cycle](./images/data-science-life-cycle.png)
